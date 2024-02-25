@@ -3,7 +3,7 @@ import Tag from "./components/Tag";
 
 export default function App() {
   return (
-    <div className="w-full h-screen background flex flex-col relative items-center">
+    <div className="w-full h-full background flex flex-col relative items-center">
       <h1 className="bg-white text-center w-11/12 rounded-2xl text-4xl py-2 mt-[40px] font-bold">
       RANDOM GIFS
       </h1>
